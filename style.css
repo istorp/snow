@@ -74,6 +74,7 @@
     background: linear-gradient(270deg,transparent,#03e9f4);
     animation: animate3 1s linear infinite;
     animation-delay: 0.25s;
+    /* hej */
 }
 .Starter a span:nth-child(4){
     bottom: -100;
